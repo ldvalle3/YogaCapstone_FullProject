@@ -1,2 +1,2 @@
 # YogaCapstone_FullProject
-front/backend of a function website for yoga instructors to electronically create sequences.
+front/backend of a functional website for yoga instructors to electronically create sequences.
